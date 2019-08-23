@@ -1,0 +1,58 @@
+
+header{
+    background-color: aliceblue;
+}
+
+#leftAd{
+    
+    background-color: whitesmoke;
+    margin-top: 225px;
+   position:absolute;
+    border:solid grey;
+}
+
+footer{
+    color:white;
+    width: auto;
+    margin:0;
+    /* margin-top: 250px; */
+}
+
+#left-side{
+    display:block;
+    float:left;
+    /* height:500px; */
+    /* width:200px; */
+    background-color: lightblue;
+    color:blue;
+    word-wrap: break-word;
+}
+
+#right-side{
+    display:block;
+    float:right;
+    height:500px;
+    /* width:200px; */
+    background-color: lightblue;
+    color:red;
+    word-wrap: break-word;
+
+}
+#sec{
+    float:center;
+        word-wrap: break-word;
+        width: 800px;
+      
+}
+
+ #center-div{
+    margin-left: 200px;
+    width: 800px;
+    background-color: aqua;
+} 
+
+
+
+
+
+
